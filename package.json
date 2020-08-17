@@ -1,0 +1,20 @@
+{
+  "name": "pruebaworkflow",
+  "version": "1.0.0",
+  "description": "Tienda de prueba de workflow",
+  "main": "index.js",
+  "repository": "https://github.com/naz-14/pruebaworkflow.git",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0",
+    "imagemin-pngquant": "^9.0.0",
+    "merge-stream": "^2.0.0"
+  }
+}
